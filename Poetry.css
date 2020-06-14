@@ -1,0 +1,17 @@
+body {
+    font-family: 'President Cyr', arial;
+}
+
+.header {
+    font-size: 72px;
+    text-align: center;
+}
+
+.center {
+    font-size: 28px;
+    text-align: center;
+}
+
+.small {
+    line-height: 0.7;
+}
