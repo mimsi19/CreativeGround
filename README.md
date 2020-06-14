@@ -1,5 +1,5 @@
 # CreativeGround
-This is a site where artists of different kind can freely show of their masterpieces. 
+### This is a site where artists of different kind can freely show of their masterpieces. 
 #### There's different categories like:
 * Poetry
 * Photography 
