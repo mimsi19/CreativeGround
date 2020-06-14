@@ -116,6 +116,10 @@ body {
   background: #ddd;
 }
 
+.bg {
+  font-family: 'President Cyr', arial;
+}
+
 @media screen and (max-width: 700px) {
   .row, .navbar {
     flex-direction: column;
